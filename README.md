@@ -3,7 +3,7 @@
 ## A pizzeria simulation in C
 
 The purpose of this project was to simulate how a pizzeria can work with the possibility of taking differents orders simultaneously.
-Handling multiple kitchens creating gradually with multiple cooks inside them being available or not.
+Handling multiple kitchens created gradually, with multiple cooks inside them being available or not.
 
 ## Usage
 
