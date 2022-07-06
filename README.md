@@ -12,6 +12,6 @@ make
 ./plazza <cookingTime> <cooksNumber> <refillTime>
 ```
 
-When the program is running, you can order pizza(s) with specific commands, look below for help
+- When the program is running, you can order pizza(s) with specific commands, look below for help
 
 ![ORDERING](ordering.PNG)
