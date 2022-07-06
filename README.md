@@ -15,3 +15,5 @@ make
 - When the program is running, you can order pizza(s) with specific commands, look below for help
 
 ![ORDERING](ordering.PNG)
+
+- You can also use the ``` status ``` command in order to get infos on the current kitchens and ingredients.
