@@ -16,4 +16,6 @@ make
 
 ![ORDERING](ordering.PNG)
 
+- There are 4 differents types of pizza : regina, margarita, americana, fantasia
+
 - You can also use the ``` status ``` command in order to get infos on the current kitchens and ingredients.
