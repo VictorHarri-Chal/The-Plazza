@@ -14,4 +14,4 @@ make
 
 When the program is running, you can order pizza(s) with specific commands, look below for help
 
-![ORDERING](ordering.png)
+![ORDERING](ordering.PNG)
